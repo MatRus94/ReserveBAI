@@ -28,18 +28,27 @@
 	<li>Informacje na temat cen
 	<li>Dodawanie ocen
 	</ul>
+	
+<h2>Prototyp aplikacji</h2>
 
+	
+	
+	
+	
+	
+<hr />
 <h2>Linki</h2>
-	<br />
 	<a href="https://trello.com/aplikacjabai/members">Trello </a>
 	<br />
 	<a href="https://github.com/szklara/ReserveBAI.git">Repozytorium GitHub</a>
+	<br />
+<hr />
+<h2>Zespół projektowy</h2>
 
-
-
-
-
-
+Michał Szklarczyk - 188382</br>
+Alicja Lada - 187169</br>
+Klaudia Soja - 188197</br>
+Mateusz Ruszało - 188016
 
 </body>
 </html>
