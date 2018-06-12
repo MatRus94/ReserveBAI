@@ -5,12 +5,14 @@
    
  <body align="center">
   
- <h2>Spis treści
+ <h2>Spis treści</h2>
+ <ol>
 	<li>Opis
 	<li>Główne funkcjonalności
 	<li>Prototyp aplikacji
 	<li>Linki
 	<li>Zespół projektowy
+</ol>
 <hr />
 		
 <h2>Opis</h2>
@@ -18,15 +20,20 @@
 <hr />
 
 <h2>Główne funkcjonalności</h2>
-	<p>
-		Wybór miasta<br/>
-		Wybór usługi<br/>
-		Wyszukiwanie przy pomocy daty i godziny<br/>
-		Rezerwacja danego terminu za pomocą ID i e-mail<br/>
-		Informacje na temat cen<br/>
-		Dodawanie ocen
-	</p>
+	<ul>
+	<li>Wybór miasta
+	<li>Wybór usługi
+	<li>Wyszukiwanie przy pomocy daty i godziny
+	<li>Rezerwacja danego terminu za pomocą ID i e-mail
+	<li>Informacje na temat cen
+	<li>Dodawanie ocen
+	</ul>
 
+<h2>Linki</h2>
+	<br />
+	<a href="https://trello.com/aplikacjabai/members">Trello </a>
+	<br />
+	<a href="https://github.com/szklara/ReserveBAI.git">Repozytorium GitHub</a>
 
 
 
